@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "company": "Acme Corporation",
+    "contactPerson": "John Smith",
+    "email": "john.smith@acmecorp.com",
+    "phone": "+1 (555) 123-4567",
+    "industry": "technology",
+    "lastContactDate": "2023-12-15T09:30:00Z",
+    "notes": "Key decision maker for IT infrastructure projects. Interested in our enterprise solutions. Follow up scheduled for next week.",
+    "createdAt": "2023-10-15T14:20:00Z",
+    "updatedAt": "2023-12-15T09:30:00Z"
+  },
+  {
+    "Id": 2,
+    "company": "TechStart Inc",
+    "contactPerson": "Sarah Johnson",
+    "email": "sarah.j@techstart.io",
+    "phone": "+1 (555) 234-5678",
+    "industry": "technology",
+    "lastContactDate": "2023-12-12T15:45:00Z",
+    "notes": "Startup founder looking for scalable CRM solutions. Very responsive to emails. Budget approved for Q1 2024.",
+    "createdAt": "2023-11-01T10:15:00Z",
+    "updatedAt": "2023-12-12T15:45:00Z"
+  },
+  {
+    "Id": 3,
+    "company": "Healthcare Plus",
+    "contactPerson": "Dr. Michael Brown",
+    "email": "mbrown@healthcareplus.com",
+    "phone": "+1 (555) 345-6789",
+    "industry": "healthcare",
+    "lastContactDate": "2023-12-10T11:20:00Z",
+    "notes": "Medical practice manager evaluating patient management systems. Needs HIPAA compliance features.",
+    "createdAt": "2023-09-22T16:45:00Z",
+    "updatedAt": "2023-12-10T11:20:00Z"
+  },
+  {
+    "Id": 4,
+    "company": "Financial Solutions Ltd",
+    "contactPerson": "Emily Davis",
+    "email": "emily.davis@finsolltd.com",
+    "phone": "+1 (555) 456-7890",
+    "industry": "finance",
+    "lastContactDate": "2023-12-08T14:10:00Z",
+    "notes": "CFO interested in financial reporting integrations. Large enterprise with complex requirements.",
+    "createdAt": "2023-11-10T09:30:00Z",
+    "updatedAt": "2023-12-08T14:10:00Z"
+  },
+  {
+    "Id": 5,
+    "company": "Manufacturing Pro",
+    "contactPerson": "Robert Wilson",
+    "email": "r.wilson@mfgpro.com",
+    "phone": "+1 (555) 567-8901",
+    "industry": "manufacturing",
+    "lastContactDate": "2023-12-05T16:30:00Z",
+    "notes": "Operations director looking to streamline customer communications. Manufacturing company with 500+ employees.",
+    "createdAt": "2023-10-28T13:22:00Z",
+    "updatedAt": "2023-12-05T16:30:00Z"
+  },
+  {
+    "Id": 6,
+    "company": "Retail Excellence",
+    "contactPerson": "Lisa Thompson",
+    "email": "lisa.t@retailexcellence.com",
+    "phone": "+1 (555) 678-9012",
+    "industry": "retail",
+    "lastContactDate": "2023-12-03T12:15:00Z",
+    "notes": "Marketing director for retail chain. Interested in customer loyalty and marketing automation features.",
+    "createdAt": "2023-11-15T11:45:00Z",
+    "updatedAt": "2023-12-03T12:15:00Z"
+  },
+  {
+    "Id": 7,
+    "company": "Education First",
+    "contactPerson": "James Martinez",
+    "email": "j.martinez@educationfirst.edu",
+    "phone": "+1 (555) 789-0123",
+    "industry": "education",
+    "lastContactDate": "2023-11-30T10:45:00Z",
+    "notes": "IT administrator for school district. Evaluating student and parent communication systems.",
+    "createdAt": "2023-09-18T15:30:00Z",
+    "updatedAt": "2023-11-30T10:45:00Z"
+  },
+  {
+    "Id": 8,
+    "company": "Consulting Group",
+    "contactPerson": "Amanda White",
+    "email": "a.white@consultinggroup.com",
+    "phone": "+1 (555) 890-1234",
+    "industry": "consulting",
+    "lastContactDate": "2023-11-28T13:20:00Z",
+    "notes": "Partner at consulting firm. Needs client relationship management for multiple projects simultaneously.",
+    "createdAt": "2023-10-05T08:15:00Z",
+    "updatedAt": "2023-11-28T13:20:00Z"
+  },
+  {
+    "Id": 9,
+    "company": "Green Energy Solutions",
+    "contactPerson": "David Lee",
+    "email": "david.lee@greenenergy.com",
+    "phone": "+1 (555) 901-2345",
+    "industry": "other",
+    "lastContactDate": "2023-11-25T09:00:00Z",
+    "notes": "Business development manager for renewable energy company. Fast-growing startup with expansion plans.",
+    "createdAt": "2023-11-20T14:10:00Z",
+    "updatedAt": "2023-11-25T09:00:00Z"
+  },
+  {
+    "Id": 10,
+    "company": "Property Management Co",
+    "contactPerson": "Karen Garcia",
+    "email": "karen.garcia@propmgmt.com",
+    "phone": "+1 (555) 012-3456",
+    "industry": "real-estate",
+    "lastContactDate": "2023-11-22T17:30:00Z",
+    "notes": "General manager for property management company. Managing 200+ properties and needs tenant communication tools.",
+    "createdAt": "2023-09-30T12:00:00Z",
+    "updatedAt": "2023-11-22T17:30:00Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Total Contacts",
+    "value": 247,
+    "trend": 12,
+    "icon": "Users"
+  },
+  {
+    "label": "Active Deals",
+    "value": 23,
+    "trend": 8,
+    "icon": "Briefcase"
+  },
+  {
+    "label": "Tasks Due Today",
+    "value": 5,
+    "trend": -15,
+    "icon": "CheckSquare"
+  },
+  {
+    "label": "Monthly Activities",
+    "value": 142,
+    "trend": 24,
+    "icon": "Activity"
+  }
+]
